@@ -1,1 +1,1 @@
-# kidney-thermal-property-mfnn
+# Kidney Thermal Property MFNN
