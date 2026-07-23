@@ -13,9 +13,9 @@ Four targets are modeled:
 
 The residual MFNN uses a linear low-fidelity approximation and learns a nonlinear correction:
 
-\[
-\hat{y}_{HF} = \rho \hat{y}_{LF} + \delta(T)
-\]
+```math
+\hat{y}_{\mathrm{HF}} = \rho \hat{y}_{\mathrm{LF}} + \delta(T)
+```
 
 An uncertainty-weighted version gives greater influence to experimental measurements with lower reported uncertainty.
 
